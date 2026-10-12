@@ -1,1 +1,1 @@
-Github organization for the Humanized-centered AI unit at RISE Research Institutes of Sweden
+Github organization for the Human Factors Lab at RISE Research Institutes of Sweden
